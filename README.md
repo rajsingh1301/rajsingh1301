@@ -1,6 +1,7 @@
 
-<center>![5e9a9f9a4d08842b4b57b2b33660e548](https://github.com/user-attachments/assets/85c235e9-0d34-46d1-9ba4-1357433b9a69)</center>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85c235e9-0d34-46d1-9ba4-1357433b9a69" alt="image" />
+</p>
 
 
 Hi! I'm **Mayank**, a B.Tech CSE student with a passion for web development and building cool tech projects. I'm currently focused on learning **HTML, CSS, JavaScript**, and **React**, and I'm working toward becoming a **Full Stack Developer**.
