@@ -11,11 +11,7 @@ Hi! I'm **Mayank**, a B.Tech CSE student with a passion for web development and 
 - 🧠 Always curious and eager to explore new tech and tools.  
 - 🚀 My goal is to contribute to real-world projects and open-source communities.
 
-### 🛠️ Tech Stack
-
-**Languages:** HTML • CSS • JavaScript  
-**Library:** React (learning)  
-**Tools:**  
+  
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" style="background-color:white; border-radius:5px;" />
