@@ -19,7 +19,7 @@ Hi! I'm **Mayank**, a B.Tech CSE student with a passion for web development and 
 
 ---
 
-### 📫 Contact Me
+### 📫 CONTACT ME
 
 📧 [rjss2829singh@gmail.com](mailto:rjss2829singh@gmail.com)  
 🌐 Portfolio: <a href="https://portfolio-eight-psi-dl8k390tdd.vercel.app/"><img src="https://www.svgrepo.com/show/280180/man-user.svg" width="30" style="background-color:white; border-radius:5px; margin-top:10px;" /> </a> 
