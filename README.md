@@ -41,17 +41,24 @@
 
 ### 🛠️ Tech Stack
 
-**Cloud, DevOps & Infrastructure**
-![Cloud, DevOps & Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,bash,prometheus,grafana) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-**Languages**
-![Languages](https://skillicons.dev/icons?i=go,python,java,js,ts,c)
-
-**Full-Stack Development**
-![Full-Stack Development](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,vite)
-
-**Databases & Tools**
-![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,githubactions)
+<table>
+<tr>
+<td valign="middle"><b>Cloud, DevOps & Infrastructure</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,bash,prometheus,grafana" alt="Cloud, DevOps & Infrastructure" /> <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=go,python,java,js,ts,c" alt="Languages" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Full-Stack Development</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,vite" alt="Full-Stack Development" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Databases & Tools</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,githubactions" alt="Databases & Tools" /></td>
+</tr>
+</table>
 
 ---
 
