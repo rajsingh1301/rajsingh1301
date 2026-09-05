@@ -18,10 +18,10 @@
 
 ### 🙋 About Me
 
-- 🎓 Fresher @ ABESEC, currently sharpening frontend & full-stack skills
-- 🌱 Building small projects to learn fast and ship often
-- 🌍 Also dabbling in open source — recently forking/exploring `openkruise/kruise` and `openkruise/agents`
-- 🚀 Goal: land real-world contributions and grow into full-stack + open source work
+- 🎓 Fresher @ ABESEC — full-stack engineer with a growing focus on DevOps and scalable distributed systems
+- ☁️ Learning to build and deploy cloud-native systems on AWS, and getting hands-on with containers, CI/CD, and infrastructure automation
+- 🌍 Active in open source — contributing to and exploring projects like `openkruise/kruise` and `openkruise/agents`
+- 🚀 Goal: ship reliable, scalable systems and grow as a full-stack + DevOps engineer through real-world open-source work
 - 📫 Reach me at [rjss2829singh@gmail.com](mailto:rjss2829singh@gmail.com) · 🌐 [Portfolio](https://portfolio-eight-psi-dl8k390tdd.vercel.app/)
 
 ---
@@ -36,6 +36,9 @@
 
 **Tools & Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,git,github" alt="Tools & Databases" />
+
+**DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash" alt="DevOps & Cloud" />
 
 ---
 
