@@ -18,11 +18,24 @@
 
 ### 🙋 About Me
 
-- 🎓 Fresher @ ABESEC — full-stack engineer with a growing focus on DevOps and scalable distributed systems
-- ☁️ Learning to build and deploy cloud-native systems on AWS, and getting hands-on with containers, CI/CD, and infrastructure automation
-- 🌍 Active in open source, contributing to projects beyond my own repos
-- 🚀 Goal: ship reliable, scalable systems and grow as a full-stack + DevOps engineer through real-world open-source work
+- 🛠️ Backend/Go engineer building toward cloud-native systems, active contributor to CNCF-adjacent projects
+- ☁️ Working with AWS, containers, and CI/CD; sharpening DevOps fundamentals
+- 🌍 Send patches and bug reports into other people's repos, not just my own — see contributions below
 - 📫 Reach me at [rjss2829singh@gmail.com](mailto:rjss2829singh@gmail.com) · 🌐 [Portfolio](https://portfolio-eight-psi-dl8k390tdd.vercel.app/)
+
+---
+
+### 🌍 Open Source Contributions
+
+| Repo | Type | Contribution | Status |
+|---|---|---|---|
+| [openkruise/agents](https://github.com/openkruise/agents/issues/941) | Issue | Filed security bug: credential-bearing request headers logged in proxy `ext_proc` | Open |
+| [DevanshuTripathi/vodka](https://github.com/DevanshuTripathi/vodka/pull/84) | PR | Fixed CORS: explicitly handle OPTIONS preflight requests in `ServeHTTP` | Merged |
+| [agnivo988/Repo-lyzer](https://github.com/agnivo988/Repo-lyzer/pull/356) | PR | Added retry/backoff and rate-limit handling for GitHub API calls | Merged |
+| [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime/pull/59) | PR | Fixed wrong error variable checked after SQLite init in the upload command | Merged |
+| [Anand-240/hyperdraft](https://github.com/Anand-240/hyperdraft/pull/1) | PR | Enhanced auth screen, landing page, and session navigation | Merged |
+| [AnkanMisra/MicroAI-Paygate](https://github.com/AnkanMisra/MicroAI-Paygate/pull/194) | PR | Added a deterministic mock AI provider for local/demo use | Open |
+| [sahoo-tech/Execra](https://github.com/sahoo-tech/Execra/issues/264) | Issue | Reported LSP violation (non-string return) and a duplicate router registration bug | Open |
 
 ---
 
@@ -49,17 +62,13 @@
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Codoro**](https://github.com/rajsingh1301/Codoro) | Live-coding platform with real-time streaming & AI coding assistants | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) |
-| [**CortexOps**](https://github.com/rajsingh1301/CortexOps) | Autonomous AI ops agent for CockroachDB — anomaly detection & safe auto-remediation | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) |
+| [**Go-Auth**](https://github.com/rajsingh1301/Go-Auth) | Backend auth API — signup, login, and JWT-based session validation | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| [**CortexOps**](https://github.com/rajsingh1301/CortexOps) | Ops agent for CockroachDB that watches cluster telemetry, flags anomalies, proposes remediations for human approval, and logs decision history via vector search | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) |
 | [**FileDock**](https://github.com/rajsingh1301/FileDock) | Cloud file storage & sharing platform with OTP auth and drag-and-drop uploads | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| [cinebrowse](https://github.com/rajsingh1301/cinebrowse) | Movie browsing app with details and watchlist | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| [Foodico](https://github.com/rajsingh1301/Foodico) | Food ordering web app UI with menu browsing and cart | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| [Portfolio](https://github.com/rajsingh1301/Portfolio) | Personal portfolio site with projects, blog, and contact sections | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Framer](https://img.shields.io/badge/-Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
-| [auths](https://github.com/rajsingh1301/auths) | Server-rendered auth starter with JWT cookie sessions | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
