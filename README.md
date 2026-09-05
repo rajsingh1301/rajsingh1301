@@ -72,27 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajsingh1301&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh1301&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>
-
-![Streak stats](https://nirzak-streak-stats.vercel.app/?user=rajsingh1301&theme=blue_navy&hide_border=false)
-
-<details>
-<summary>✍️ Random dev quote & top contributed repo</summary>
-<br/>
-
-![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Top contributed repo](https://github-contributor-stats.vercel.app/api?username=rajsingh1301&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</details>
-
----
-
 ### 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rjss2829singh@gmail.com)
