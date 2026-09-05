@@ -41,24 +41,17 @@
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="middle"><b>Languages</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=c,html,java,js,python,ts" alt="Languages" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>Frameworks & Libraries</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,react,redux,tailwind,threejs,vite" alt="Frameworks & Libraries" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>Tools & Databases</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,git,github" alt="Tools & Databases" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>DevOps & Cloud</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash" alt="DevOps & Cloud" /></td>
-</tr>
-</table>
+**Cloud, DevOps & Infrastructure**
+![Cloud, DevOps & Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,bash,prometheus,grafana) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**Languages**
+![Languages](https://skillicons.dev/icons?i=go,python,java,js,ts,c)
+
+**Full-Stack Development**
+![Full-Stack Development](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,vite)
+
+**Databases & Tools**
+![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,githubactions)
 
 ---
 
