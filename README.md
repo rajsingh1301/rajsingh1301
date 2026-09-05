@@ -20,7 +20,7 @@
 
 - 🎓 Fresher @ ABESEC — full-stack engineer with a growing focus on DevOps and scalable distributed systems
 - ☁️ Learning to build and deploy cloud-native systems on AWS, and getting hands-on with containers, CI/CD, and infrastructure automation
-- 🌍 Active in open source — contributing to and exploring projects like `openkruise/kruise` and `openkruise/agents`
+- 🌍 Active in open source, contributing to projects beyond my own repos
 - 🚀 Goal: ship reliable, scalable systems and grow as a full-stack + DevOps engineer through real-world open-source work
 - 📫 Reach me at [rjss2829singh@gmail.com](mailto:rjss2829singh@gmail.com) · 🌐 [Portfolio](https://portfolio-eight-psi-dl8k390tdd.vercel.app/)
 
@@ -52,15 +52,6 @@
 | [auths](https://github.com/rajsingh1301/auths) | Authentication flow implementation |
 
 > ✏️ Add a one-line description to each repo on GitHub so this table (and your pinned cards) show more than just a name.
-
----
-
-### 🌍 Open Source & Contributions
-
-Currently exploring and contributing to:
-
-- [openkruise/kruise](https://github.com/openkruise/kruise) — Kubernetes workload management (CNCF incubating)
-- [openkruise/agents](https://github.com/openkruise/agents) — agent sandbox lifecycle management
 
 ---
 
