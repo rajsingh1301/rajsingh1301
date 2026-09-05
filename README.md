@@ -51,14 +51,15 @@
 
 ### 📌 Projects
 
-| Project | Description |
-|---|---|
-| [Foodico](https://github.com/rajsingh1301/Foodico) | Food ordering app UI |
-| [Portfolio](https://github.com/rajsingh1301/Portfolio) | My personal portfolio site |
-| [cinebrowse](https://github.com/rajsingh1301/cinebrowse) | Browse movies (TypeScript) |
-| [auths](https://github.com/rajsingh1301/auths) | Authentication flow implementation |
-
-> ✏️ Add a one-line description to each repo on GitHub so this table (and your pinned cards) show more than just a name.
+| Project | Description | Tech |
+|---|---|---|
+| [**Codoro**](https://github.com/rajsingh1301/Codoro) | Live-coding platform with real-time streaming & AI coding assistants | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) |
+| [**CortexOps**](https://github.com/rajsingh1301/CortexOps) | Autonomous AI ops agent for CockroachDB — anomaly detection & safe auto-remediation | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) |
+| [**FileDock**](https://github.com/rajsingh1301/FileDock) | Cloud file storage & sharing platform with OTP auth and drag-and-drop uploads | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [cinebrowse](https://github.com/rajsingh1301/cinebrowse) | Movie browsing app with details and watchlist | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [Foodico](https://github.com/rajsingh1301/Foodico) | Food ordering web app UI with menu browsing and cart | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| [Portfolio](https://github.com/rajsingh1301/Portfolio) | Personal portfolio site with projects, blog, and contact sections | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Framer](https://img.shields.io/badge/-Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
+| [auths](https://github.com/rajsingh1301/auths) | Server-rendered auth starter with JWT cookie sessions | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
