@@ -28,17 +28,24 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=c,html,java,js,python,ts" alt="Languages" />
-
-**Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,react,redux,tailwind,threejs,vite" alt="Frameworks & Libraries" />
-
-**Tools & Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,git,github" alt="Tools & Databases" />
-
-**DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash" alt="DevOps & Cloud" />
+<table>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=c,html,java,js,python,ts" alt="Languages" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frameworks & Libraries</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,react,redux,tailwind,threejs,vite" alt="Frameworks & Libraries" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Tools & Databases</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,git,github" alt="Tools & Databases" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>DevOps & Cloud</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash" alt="DevOps & Cloud" /></td>
+</tr>
+</table>
 
 ---
 
