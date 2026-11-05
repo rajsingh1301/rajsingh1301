@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00CCF7&center=true&width=435&lines=Hi+%2C+I'm+Mayank+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajsingh1301&label=Profile%20views&color=00CCF7&style=flat" alt="profile views" />
   <a href="mailto:rjss2829singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mayank-raj-b1b949339/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,6 +14,7 @@
 <tr>
 <td width="320" align="center" valign="middle"><a href="https://x.com/rajsingh130106"><img src="./card.svg" alt="Mayank - Backend/Go engineer" width="300" /></a></td>
 <td valign="middle">
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00CCF7&center=true&width=435&lines=Hi+%2C+I'm+Mayank+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></p>
 <ul>
 <li>🛠️ Backend/Go engineer building toward cloud-native systems, active contributor to CNCF-adjacent projects</li>
 <li>☁️ Working with AWS, containers, and CI/CD; sharpening DevOps fundamentals</li>
