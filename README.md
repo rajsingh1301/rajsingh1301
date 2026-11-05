@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85c235e9-0d34-46d1-9ba4-1357433b9a69" alt="banner" />
-</p>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00CCF7&center=true&width=435&lines=Hi+%2C+I'm+Mayank+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
