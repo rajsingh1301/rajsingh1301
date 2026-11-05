@@ -7,7 +7,7 @@
   <a href="https://portfolio-eight-psi-dl8k390tdd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-## 🙋 About Me
+
 
 <div align="center">
 <table>
