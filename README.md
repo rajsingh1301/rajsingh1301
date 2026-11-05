@@ -12,7 +12,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="320" align="center" valign="middle"><a href="https://x.com/rajsingh130106"><img src="./card.svg" alt="Mayank - Backend/Go engineer" width="300" /></a></td>
+<td width="320" align="center" valign="middle"><a href="https://x.com/rajsingh130106"><img src="./card.svg" alt="Mayank - Full-Stack Engineer" width="300" /></a></td>
 <td valign="middle">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00CCF7&center=true&width=435&lines=Hi+%2C+I'm+Mayank+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></p>
 <ul>
