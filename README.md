@@ -14,6 +14,10 @@
   <a href="https://instagram.com/rajsingh._1000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+<p align="center">
+  <a href="https://x.com/rajsingh130106"><img src="./card.svg" alt="Animated profile card" width="360" /></a>
+</p>
+
 ---
 
 ### 🙋 About Me
