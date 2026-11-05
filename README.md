@@ -1,8 +1,5 @@
-<div align="center">
-<table>
-<tr>
-<td width="320" align="center" valign="middle"><a href="https://www.linkedin.com/in/mayank-raj-b1b949339/"><img src="./card.svg" alt="Mayank - Backend Developer | Go | Node.js | Cloud &amp; AWS" width="300" /></a></td>
-<td valign="middle">
+<div align="left">
+<a href="https://www.linkedin.com/in/mayank-raj-b1b949339/"><img align="left" hspace="20" src="./card.svg" alt="Mayank - Backend Developer | Go | Node.js | Cloud &amp; AWS" width="300" /></a>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00CCF7&center=true&width=435&lines=Hi+%2C+I'm+Mayank+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></p>
 <p align="center"><b>Backend Developer | Go | Node.js | Cloud &amp; AWS</b></p>
 <ul>
@@ -10,9 +7,7 @@
 <li>☁️ Working with AWS, containers, and CI/CD; sharpening DevOps fundamentals</li>
 <li>🌍 Send patches and bug reports into other people's repos, not just my own — see contributions below</li>
 </ul>
-</td>
-</tr>
-</table>
+<br clear="both" />
 </div>
 
 ## 📌 Featured Projects
