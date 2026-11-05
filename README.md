@@ -15,15 +15,6 @@
 </table>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajsingh1301&label=Profile%20views&color=00CCF7&style=flat" alt="profile views" />
-  <a href="mailto:rjss2829singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mayank-raj-b1b949339/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/rajsingh130106"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/rajsingh._1000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://portfolio-eight-psi-dl8k390tdd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
 ## 🌍 Open Source Contributions
 
 | Repo | Type | Contribution | Status |
